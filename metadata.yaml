@@ -1,0 +1,27 @@
+_repo: Cabos-sueltos-Literatura-y-linguistica_68787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fraucas, Julio Cejador y
+    gutenberg_agent_id: '54948'
+    url: http://www.gutenberg.org/2009/agents/54948
+description: ''
+gutenberg_issued: '2022-08-18'
+identifiers:
+  gutenberg: '68787'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065615042&view=1up&seq=11
+pgterms:marc905: 20200408150156cejadoryfr
+pgterms:marc906: '1907'
+pgterms:marc907: ES
+production_note: Andrés V. Galia, Sanly Bowitts and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: "Spain :Perlado y PaeÌ\x81z sucesores de Hernando,1907."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cabos sueltos: Literatura y lingüística'
+url: http://www.gutenberg.org/ebooks/68787
